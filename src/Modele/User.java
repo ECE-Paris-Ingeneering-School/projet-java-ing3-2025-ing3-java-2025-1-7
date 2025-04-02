@@ -34,11 +34,5 @@ public class User {
     public Role getRole() { return role; }
 
     // Setters
-    public void setUserId(int userId) { this.userId = userId; }
-    public void setUserNom(String userNom) { this.userNom = userNom; }
-    public void setUserPrenom(String userPrenom) { this.userPrenom = userPrenom; }
-    public void setUserEmail(String userEmail) { this.userEmail = userEmail; }
-    public void setUserTel(int userTel) { this.userTel = userTel; }
-    public void setUserPassword(String userPassword) { this.userPassword = userPassword; }
     public void setRole(Role role) { this.role = role; }
 }

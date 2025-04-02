@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9833353a-da88-42b8-92ca-21c05041efc8" name="Changes" comment="Re creation projet">
-      <change afterPath="$PROJECT_DIR$/src/Modele/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vue/UserVue.java" afterDir="false" />
+    <list default="true" id="9833353a-da88-42b8-92ca-21c05041efc8" name="Changes" comment="création fichiers user + reservationDao">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modele/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modele/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -34,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Travaux d'Alex/ECE/info/langage c/codage/juste pour le plaisir",
+    "last_opened_file_path": "D:/ECE3/S2/POO Java/TP/TP8/TP8_JDBC_DAO/src/Modele/Client.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1743584809602</updated>
       <workItem from="1743584810669" duration="206000" />
-      <workItem from="1743585049381" duration="382000" />
+      <workItem from="1743585049381" duration="2250000" />
+      <workItem from="1743588163018" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="Re creation projet test">
       <option name="closed" value="true" />
@@ -101,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743585081408</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="création fichiers user + reservationDao">
+      <option name="closed" value="true" />
+      <created>1743585476198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743585476198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +131,7 @@
     <MESSAGE value="Re creation projet test" />
     <MESSAGE value="Re creation projet test Hello" />
     <MESSAGE value="Re creation projet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re creation projet" />
+    <MESSAGE value="création fichiers user + reservationDao" />
+    <option name="LAST_COMMIT_MESSAGE" value="création fichiers user + reservationDao" />
   </component>
 </project>
